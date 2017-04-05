@@ -1,0 +1,4980 @@
+{
+  "status": 1,
+  "info": "",
+  "data": {
+    "name": "致幻节奏 随你坠入无垠星际",
+    "songs": [
+      {
+        "songId": 1773348882,
+        "songName": "Just Like This",
+        "subName": "",
+        "albumId": 1605319083,
+        "albumLogo": "http://pic.xiami.net/images/album/img33/92433/16053190831405319083.jpg",
+        "albumName": "Feel Something",
+        "artistId": 92433,
+        "artistName": "The History Of Apple Pie",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/89/13099303802989.jpg",
+        "singers": "The History Of Apple Pie",
+        "length": 298000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 10,
+        "pinyin": "Just Like This",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 1223133,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 4775151,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 11937090,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/433/92433/1605319083/1773348882_15859710_l.m4a?auth_key=4bd0e0e483fc655d9451a6c746511568-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269654,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 1223133
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/433/92433/1605319083/1773348882_15859710_h.mp3?auth_key=b4ca94a3b18e5efee95cf2997dd95f2d-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269654,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 11937090
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/433/92433/1605319083/1773348882_15859710_l.mp3?auth_key=bbf9c4250029a641f1ab6847dadf7aac-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269654,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 4775151
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img33/92433/16053190831405319083.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 10,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 92433,
+            "artistName": "The History Of Apple Pie",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1412733639000
+      },
+      {
+        "songId": 1771584345,
+        "songName": "Sleepless",
+        "subName": "",
+        "albumId": 569326,
+        "albumLogo": "http://pic.xiami.net/images/album/img38/546438/5464381357546439.jpg",
+        "albumName": "Ministry of Sound Chillout Sessions XV",
+        "artistId": 23258,
+        "artistName": "Various Artists",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/33/13517382586833.jpg",
+        "singers": "Flume;Jezzabell Doran",
+        "length": 160000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 2,
+        "track": 5,
+        "pinyin": "Sleepless",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 667769,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 2570821,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 6427329,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 1,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/258/23258/569326/1771584345_4056500_l.m4a?auth_key=84862b9ab2aad0188ab7db1e38788fab-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269644,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 667769
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/258/23258/569326/1771584345_4056500_h.mp3?auth_key=5368e06c8b8f1d72b9cf63af35fe82b3-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269644,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 6427329
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/258/23258/569326/1771584345_4056500_l.mp3?auth_key=678083462a7645a1a4a170e9d245db7d-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269644,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 2570821
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img38/546438/5464381357546439.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 42,
+        "artistAlbumCount": 38253,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 123091,
+            "artistName": "Flume",
+            "alias": "Harley Streten"
+          },
+          {
+            "artistId": 836772730,
+            "artistName": "Jezzabell Doran",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "欧美群星 / VA / V.A.",
+        "gmtCreate": 1437148800000
+      },
+      {
+        "songId": 1771165789,
+        "songName": "Night Sky",
+        "subName": "",
+        "albumId": 528250,
+        "albumLogo": "http://pic.xiami.net/images/album/img56/113856/5282501342415482.png",
+        "albumName": "Inspire",
+        "artistId": 113856,
+        "artistName": "Rameses B",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/57/14098979115457.jpg",
+        "singers": "Rameses B",
+        "length": 400000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 3,
+        "pinyin": "Night Sky",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 1640484,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 6402245,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 16003813,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 1,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/856/113856/528250/1771165789_3497582_l.m4a?auth_key=c3bd39f211e6590c4d2b57efc62c7ae3-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269645,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 1640484
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/856/113856/528250/1771165789_3497582_h.mp3?auth_key=5a27df14f7be7911cc5c6ace24c7d058-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269645,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 16003813
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/856/113856/528250/1771165789_3497582_l.mp3?auth_key=21063199b59a2024a992b840db2f12fb-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269645,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 6402245
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img56/113856/5282501342415482.png@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 4,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 113856,
+            "artistName": "Rameses B",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1392170198000
+      },
+      {
+        "songId": 1774257821,
+        "songName": "Moondust",
+        "subName": "",
+        "albumId": 130559125,
+        "albumLogo": "http://pic.xiami.net/images/album/img24/559124/5591241430559124.jpg",
+        "albumName": "Moondust",
+        "artistId": 416538947,
+        "artistName": "Nyte",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/5/14165389472205.jpg",
+        "singers": "Nyte",
+        "length": 256000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "Moondust",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 1055396,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 4103047,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 10254779,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/947/416538947/130559125/1774257821_16638597_l.m4a?auth_key=db12fb7771c0e6899767e78e72a4de1b-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 1055396
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/947/416538947/130559125/1774257821_16638597_h.mp3?auth_key=4fa0d2efcf12eea5deca41d9fa6f8bad-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 10254779
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/947/416538947/130559125/1774257821_16638597_l.mp3?auth_key=ef7ae7e197b7131781b20ff162d9542b-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 4103047
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img24/559124/5591241430559124.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 1,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 416538947,
+            "artistName": "Nyte",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1441468800000
+      },
+      {
+        "songId": 1774033697,
+        "songName": "Let You Go (Radio Edit)",
+        "subName": "",
+        "albumId": 725394452,
+        "albumLogo": "http://pic.xiami.net/images/album/img51/394451/3944511425394451.jpg",
+        "albumName": "Let You Go",
+        "artistId": 123387,
+        "artistName": "The Chainsmokers",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/75/14399716865275.jpg",
+        "singers": "The Chainsmokers;Great Good Fine Ok",
+        "length": 218000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "Let You Go (Radio Edit)",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 903757,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 3504839,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 8760263,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": {
+          "lyricId": 6276194,
+          "lyricType": 1,
+          "lyricFile": "http://img.xiami.net/lyric/97/1774033697_1425705133_7241.txt"
+        },
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/387/123387/725394452/1774033697_16370874_l.m4a?auth_key=79ff5dc8e47bc583dfcff73402e3008e-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 903757
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/387/123387/725394452/1774033697_16370874_h.mp3?auth_key=23c2fb48595706520130bd7082a5191f-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 8760263
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/387/123387/725394452/1774033697_16370874_l.mp3?auth_key=74f72b16451bc313b374f6b1adaf992b-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 3504839
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img51/394451/3944511425394451.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 1,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 123387,
+            "artistName": "The Chainsmokers",
+            "alias": ""
+          },
+          {
+            "artistId": 292715243,
+            "artistName": "Great Good Fine Ok",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1441641600000
+      },
+      {
+        "songId": 1770209620,
+        "songName": "Galaxy",
+        "subName": "",
+        "albumId": 441059,
+        "albumLogo": "http://pic.xiami.net/images/album/img55/90055/4410591305624683.png",
+        "albumName": "Redemption",
+        "artistId": 90055,
+        "artistName": "Marcos Adam",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/44/13056246406444.jpg",
+        "singers": "Marcos Adam",
+        "length": 233000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 3,
+        "pinyin": "Galaxy",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 964890,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 3731903,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 9318901,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/55/90055/441059/1770209620_2330253_l.m4a?auth_key=24e80992b616eaaf67cde0dbfbf8cd0d-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269646,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 964890
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/55/90055/441059/1770209620_2330253_h.mp3?auth_key=c7e21d937a9364a683cde88bb85651c8-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269646,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 9318901
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/55/90055/441059/1770209620_2330253_l.mp3?auth_key=ac7c20318e068285ec1035fa6a056e19-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269646,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 3731903
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img55/90055/4410591305624683.png@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 8,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 90055,
+            "artistName": "Marcos Adam",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1295884800000
+      },
+      {
+        "songId": 1774279139,
+        "songName": "Seve (Radio Edit)",
+        "subName": "",
+        "albumId": 1330989757,
+        "albumLogo": "http://pic.xiami.net/images/album/img56/989756/9897561430989756.jpg",
+        "albumName": "Seve (Radio Edit)",
+        "artistId": 1530989606,
+        "artistName": "Tez Cadey",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/55/14309896067055.jpg",
+        "singers": "Tez Cadey",
+        "length": 210000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "Seve (Radio Edit)",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 868910,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 3362437,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 8403234,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/606/1530989606/1330989757/1774279139_16659116_l.m4a?auth_key=c5d6a8a09ef29513004cf88f8bb0ae8e-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269654,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 868910
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/606/1530989606/1330989757/1774279139_16659116_h.mp3?auth_key=660bb70162dd13362715308aabfec206-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269654,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 8403234
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/606/1530989606/1330989757/1774279139_16659116_l.mp3?auth_key=4c72ccef27b08bcdaf429ec67ef1e236-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269654,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 3362437
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img56/989756/9897561430989756.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 1,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 1530989606,
+            "artistName": "Tez Cadey",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1440518400000
+      },
+      {
+        "songId": 1774163010,
+        "songName": "Cetus",
+        "subName": "",
+        "albumId": 1628776664,
+        "albumLogo": "http://pic.xiami.net/images/album/img64/776664/7766641428776664.jpg",
+        "albumName": "Cetus",
+        "artistId": 1925666810,
+        "artistName": "Lensko",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/66/14256668094166.jpg",
+        "singers": "Lensko",
+        "length": 288000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "Cetus",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 1192197,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 4623405,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 6935136,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/810/1925666810/1628776664/1774163010_16528091_l.m4a?auth_key=2d00f457bddd278c2b25531e8b017d6e-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269657,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 1192197
+          },
+          {
+            "listenFile": "http://om192.alicdn.com/810/1925666810/1628776664/1774163010_16528091_l.mp3?auth_key=4029afa6f0bd7715a7c4340d5e0d053c-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 6935136
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/810/1925666810/1628776664/1774163010_16528091_l.mp3?auth_key=4029afa6f0bd7715a7c4340d5e0d053c-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269657,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 4623405
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img64/776664/7766641428776664.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 1,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 1925666810,
+            "artistName": "Lensko",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1440000000000
+      },
+      {
+        "songId": 1771283450,
+        "songName": "Radioactive",
+        "subName": "",
+        "albumId": 529508,
+        "albumLogo": "http://pic.xiami.net/images/album/img31/88831/5295081378381809.jpg",
+        "albumName": "Night Visions",
+        "artistId": 88831,
+        "artistName": "Imagine Dragons",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/79/14238167845079.jpg",
+        "singers": "Imagine Dragons",
+        "length": 186000,
+        "mvId": "K66FtZ",
+        "flag": 77,
+        "songStatus": 7,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "Radioactive",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 769275,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 2992124,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 7475328,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 32955070,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": {
+          "lyricId": 5324,
+          "lyricType": 4,
+          "lyricFile": "http://img.xiami.net/lyric/50/1771283450_1476063885337_2409.xlrc"
+        },
+        "listenFiles": [
+          {
+            "listenFile": "http://om7.alicdn.com/831/88831/529508/1771283450_41562284_h.wav?auth_key=5b5132602cdd79664f313fd8d3860a8f-1489460400-0-null",
+            "quality": "s",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "wav",
+            "fileSize": 32955070
+          },
+          {
+            "listenFile": "http://om32.alicdn.com/831/88831/529508/1771283450_3660233_l.m4a?auth_key=e1de8fdcdc67613fe4fb8ab3f53b169e-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 769275
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/831/88831/529508/1771283450_41562377_h.mp3?auth_key=94a84671a263414f69fbe9fd3d796fcb-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 7475328
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/831/88831/529508/1771283450_3660233_l.mp3?auth_key=a25850fe0174e89e592f6c830cf757c9-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 2992124
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img31/88831/5295081378381809.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 21,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 88831,
+            "artistName": "Imagine Dragons",
+            "alias": "梦龙"
+          }
+        ],
+        "artistAlias": "梦龙",
+        "gmtCreate": 1330963200000
+      },
+      {
+        "songId": 1774248381,
+        "songName": "Lackluster Number",
+        "subName": "",
+        "albumId": 1930294577,
+        "albumLogo": "http://pic.xiami.net/images/album/img27/96627/19302945771430294577.png",
+        "albumName": "Nova Heart",
+        "artistId": 96627,
+        "artistName": "Nova Heart",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/49/14219962043049.jpg",
+        "singers": "Nova Heart",
+        "length": 240000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 2,
+        "pinyin": "Lackluster Number",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 991150,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 3842255,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 9602778,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": {
+          "lyricId": 6440886,
+          "lyricType": 1,
+          "lyricFile": "http://img.xiami.net/lyric/81/1774248381_1430294579_5593.txt"
+        },
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/627/96627/1930294577/1774248381_16625716_l.m4a?auth_key=dc09980b311934872838e59ba85c892b-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269657,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 991150
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/627/96627/1930294577/1774248381_16625716_h.mp3?auth_key=b9a0c471ff8bbcc678c27b1356e5d62c-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269657,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 9602778
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/627/96627/1930294577/1774248381_16625716_l.mp3?auth_key=f307d99fd055fc795a98ae54af618b37-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269657,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 3842255
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img27/96627/19302945771430294577.png@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 11,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 96627,
+            "artistName": "Nova Heart",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1436427477000
+      },
+      {
+        "songId": 1772315518,
+        "songName": "Collapsing World",
+        "subName": "",
+        "albumId": 883738188,
+        "albumLogo": "http://pic.xiami.net/images/album/img70/483738070/8837381881383738188.jpg",
+        "albumName": "A White Rose for Eternity",
+        "artistId": 483738070,
+        "artistName": "The Troika",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/49/13837380696949.jpeg",
+        "singers": "The Troika",
+        "length": 253000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 10,
+        "pinyin": "Collapsing World",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 1040765,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 4058757,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 10144034,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/70/483738070/883738188/1772315518_11080434_l.m4a?auth_key=525179cfe58e9c633d636715dbfd4df5-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 1040765
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/70/483738070/883738188/1772315518_11080434_h.mp3?auth_key=ed551c85fddb397663988a6136ec14c5-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 10144034
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/70/483738070/883738188/1772315518_11080434_l.mp3?auth_key=07a79f3c35ec5466ecb8198d499a8d5b-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 4058757
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img70/483738070/8837381881383738188.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 11,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 483738070,
+            "artistName": "The Troika",
+            "alias": " "
+          }
+        ],
+        "artistAlias": " ",
+        "gmtCreate": 1437148800000
+      },
+      {
+        "songId": 1772944950,
+        "songName": "Worlds Apart",
+        "subName": "",
+        "albumId": 1498779651,
+        "albumLogo": "http://pic.xiami.net/images/album/img50/779650/7796501398779650.jpg",
+        "albumName": "Worlds Apart",
+        "artistId": 113022,
+        "artistName": "Seven Lions",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/30/14103338766630.jpg",
+        "singers": "Kerli;Seven Lions",
+        "length": 376000,
+        "mvId": "K6KDPO",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 2,
+        "pinyin": "Worlds Apart",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 1540969,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 6021491,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 15052961,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": {
+          "lyricId": 5871128,
+          "lyricType": 2,
+          "lyricFile": "http://img.xiami.net/lyric/50/1772944950_1416041606301_9756.lrc"
+        },
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/22/113022/1498779651/1772944950_13585617_l.m4a?auth_key=3e579b488a12fe591d7df96adb125e3b-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269652,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 1540969
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/22/113022/1498779651/1772944950_13585617_h.mp3?auth_key=ab88ef7ef402985b5a4d4849ca4e7337-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269652,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 15052961
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/22/113022/1498779651/1772944950_13585617_l.mp3?auth_key=e4f7ec974f2a2ce23b0701ea8089360c-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269652,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 6021491
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img50/779650/7796501398779650.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 5,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 29243,
+            "artistName": "Kerli",
+            "alias": ""
+          },
+          {
+            "artistId": 113022,
+            "artistName": "Seven Lions",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1405905219000
+      },
+      {
+        "songId": 1774088120,
+        "songName": "Masked Heroes",
+        "subName": "",
+        "albumId": 1427080107,
+        "albumLogo": "http://pic.xiami.net/images/album/img5/1019407605/14270801071427080107.png",
+        "albumName": "Masked Heroes",
+        "artistId": 1019407605,
+        "artistName": "Vexento",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/4/14194076057404.png",
+        "singers": "Vexento",
+        "length": 211000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "Masked Heroes",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 876454,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 3381657,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 8451293,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/605/1019407605/1427080107/1774088120_16433961_l.m4a?auth_key=543d977d6a7914daa66873a326f61e7d-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269644,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 876454
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/605/1019407605/1427080107/1774088120_16433961_h.mp3?auth_key=8449146de154e848b0fe306587762a64-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269644,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 8451293
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/605/1019407605/1427080107/1774088120_16433961_l.mp3?auth_key=1265d14154482c6bbf817dcf341ff32f-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269645,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 3381657
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img5/1019407605/14270801071427080107.png@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 1,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 1019407605,
+            "artistName": "Vexento",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1441987200000
+      },
+      {
+        "songId": 1772594575,
+        "songName": "A Sky Full of Stars",
+        "subName": "",
+        "albumId": 297460658,
+        "albumLogo": "http://pic.xiami.net/images/album/img82/23282/2974606581399106456.png",
+        "albumName": "A Sky Full of Stars",
+        "artistId": 23282,
+        "artistName": "Coldplay",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/2/13760426797502.jpg",
+        "singers": "Coldplay",
+        "length": 268000,
+        "mvId": "",
+        "flag": 65,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "A Sky Full of Stars",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 1103621,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 4292397,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 10741670,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 31961307,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 3,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 3,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": {
+          "lyricId": 4120357,
+          "lyricType": 2,
+          "lyricFile": "http://img.xiami.net/lyric/75/1772594575_14041792338850.lrc"
+        },
+        "listenFiles": [
+          {
+            "listenFile": "http://om7.alicdn.com/282/23282/297460658/1772594575_1438151975_h.flac?auth_key=783140f263c21aac2a53b69ab2e9a51a-1489460400-0-null",
+            "quality": "s",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "flac",
+            "fileSize": 31961307
+          },
+          {
+            "listenFile": "http://om32.alicdn.com/282/23282/293827548/1772594575_14945356_l.m4a?auth_key=02523900ef618de71251d35ea99b6133-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 1103621
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/282/23282/297460658/1772594575_1438151975.mp3?auth_key=107dc808dfdc63835a27156b75c7fd00-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 10741670
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/282/23282/293827548/1772594575_14945356_l.mp3?auth_key=775f1082ba4c5a37a3bb2037589f95e2-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 4292397
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img82/23282/2974606581399106456.png@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 6,
+        "artistAlbumCount": 56,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 23282,
+            "artistName": "Coldplay",
+            "alias": "酷玩"
+          }
+        ],
+        "artistAlias": "酷玩",
+        "gmtCreate": 1399182094000
+      },
+      {
+        "songId": 1771513930,
+        "songName": "Endeavors",
+        "subName": "",
+        "albumId": 562090,
+        "albumLogo": "http://pic.xiami.net/images/album/img35/105735/5620901355119757.jpg",
+        "albumName": "Endeavors + Alive Remix",
+        "artistId": 105735,
+        "artistName": "MitiS",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/67/14079869425167.jpg",
+        "singers": "MitiS",
+        "length": 220000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "Endeavors",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 902898,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 3527100,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 8813868,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 1,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/735/105735/562090/1771513930_3969316_l.m4a?auth_key=0671b435d6e414201fa2e5c2a70fbc1f-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 902898
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/735/105735/562090/1771513930_3969316_h.mp3?auth_key=95c9c61c040d84f61f7d044717dfbe34-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 8813868
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/735/105735/562090/1771513930_3969316_l.mp3?auth_key=8b766f90fc4be7cee6cc34f282728f70-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 3527100
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img35/105735/5620901355119757.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 2,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 105735,
+            "artistName": "MitiS",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1390751048000
+      },
+      {
+        "songId": 1771126792,
+        "songName": "Shooting Star",
+        "subName": "",
+        "albumId": 515789,
+        "albumLogo": "http://pic.xiami.net/images/album/img21/33821/5157891381572948.jpeg",
+        "albumName": "The Midsummer Station",
+        "artistId": 33821,
+        "artistName": "Owl City",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/17/14213913383017.jpg",
+        "singers": "Owl City",
+        "length": 247000,
+        "mvId": "K66Le0",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 2,
+        "pinyin": "Shooting Star",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 1014107,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 3959695,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 9898477,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": {
+          "lyricId": 4191322,
+          "lyricType": 3,
+          "lyricFile": "http://img.xiami.net/lyric_p/trc/92/1771126792_1401253249_3386.lrc"
+        },
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/821/33821/515789/1771126792_3639188_l.m4a?auth_key=6b0dd5f2af1a43586fc1f079f851dd72-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269646,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 1014107
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/821/33821/515789/1771126792_3639188_h.mp3?auth_key=bc5d625eb0ab78b7fbc2d0ebd700fade-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269646,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 9898477
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/821/33821/515789/1771126792_3639188_l.mp3?auth_key=542af6deb330498ade0da4e76408dd79-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269646,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 3959695
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img21/33821/5157891381572948.jpeg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 13,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 33821,
+            "artistName": "Owl City",
+            "alias": "猫头鹰之城 Adam Young 亚当·扬 杨亚当"
+          }
+        ],
+        "artistAlias": "猫头鹰之城 Adam Young 亚当·扬 杨亚当",
+        "gmtCreate": 1345478400000
+      },
+      {
+        "songId": 1774456690,
+        "songName": "Cool For the Summer",
+        "subName": "",
+        "albumId": 1435650472,
+        "albumLogo": "http://pic.xiami.net/images/album/img27/54727/14356504721435650680.jpg",
+        "albumName": "Cool For the Summer",
+        "artistId": 54727,
+        "artistName": "Demi Lovato",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/52/13966044298152.jpg",
+        "singers": "Demi Lovato",
+        "length": 214000,
+        "mvId": "K6YYjN",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "C o o l F o r t h e S u m m e r",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 881289,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 3438012,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 8593410,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/727/54727/1435650472/1774456690_16855021_l.m4a?auth_key=87cd3f6dff86311f4662a9970169c144-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 881289
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/727/54727/1435650472/1774456690_16855021_h.mp3?auth_key=12f07f0d9fa31e28703e53b573d3de8b-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 8593410
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/727/54727/1435650472/1774456690_16855021_l.mp3?auth_key=315710c1d221c40e15409d050b1e1554-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 3438012
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img27/54727/14356504721435650680.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 1,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 54727,
+            "artistName": "Demi Lovato",
+            "alias": "黛米·洛瓦托"
+          }
+        ],
+        "artistAlias": "黛米·洛瓦托",
+        "gmtCreate": 1435650477000
+      },
+      {
+        "songId": 1774020583,
+        "songName": "Northern Skies (Original Mix)",
+        "subName": "",
+        "albumId": 1025014176,
+        "albumLogo": "http://pic.xiami.net/images/album/img60/519921960/10250141761425014176.jpg",
+        "albumName": "Northern Skies",
+        "artistId": 519921960,
+        "artistName": "Zero Venture",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/79/14199219608679.jpg",
+        "singers": "Zero Venture",
+        "length": 282000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "Northern Skies (Original Mix)",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 1161089,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 4523543,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 11296261,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/960/519921960/1025014176/1774020583_16357232_l.m4a?auth_key=c3182df17f1833b67110964224710684-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 1161089
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/960/519921960/1025014176/1774020583_16357232_h.mp3?auth_key=e6a1e5b59a393b0bd0591129110ba48d-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269652,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 11296261
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/960/519921960/1025014176/1774020583_16357232_l.mp3?auth_key=89ab851cb6b94848f9e121b30d6fcdc2-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 4523543
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img60/519921960/10250141761425014176.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 1,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 519921960,
+            "artistName": "Zero Venture",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1437408000000
+      },
+      {
+        "songId": 1773893698,
+        "songName": "Dreaming",
+        "subName": "",
+        "albumId": 1221980179,
+        "albumLogo": "http://pic.xiami.net/images/album/img2/313868702/12219801791421980179.jpg",
+        "albumName": "Dreaming",
+        "artistId": 313868702,
+        "artistName": "Kozoro",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/39/14138687014539.jpg",
+        "singers": "Evence;Kozoro",
+        "length": 259000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "Dreaming",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 1073812,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 4156966,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 10391662,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 1,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/702/313868702/1221980179/1773893698_16227005_l.m4a?auth_key=f0598b8517c1030cdc049e1c0f9f8c5a-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 1073812
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/702/313868702/1221980179/1773893698_16227005_h.mp3?auth_key=2529e4f701fa5ce7dc3e757d1ff205fe-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 10391662
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/702/313868702/1221980179/1773893698_16227005_l.mp3?auth_key=1c76bb2a7f611ef33a67366d0cdb6a97-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 4156966
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img2/313868702/12219801791421980179.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 1,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 216794857,
+            "artistName": "Evence",
+            "alias": ""
+          },
+          {
+            "artistId": 313868702,
+            "artistName": "Kozoro",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1441728000000
+      },
+      {
+        "songId": 1772261207,
+        "songName": "Elastic Heart",
+        "subName": "",
+        "albumId": 180237099,
+        "albumLogo": "http://pic.xiami.net/images/album/img56/23256/1802370991381990908.jpg",
+        "albumName": "The Hunger Games: Catching Fire (Original Motion Picture Soundtrack)",
+        "artistId": 23256,
+        "artistName": "Soundtrack",
+        "artistLogo": "http://pic.xiami.net/images/artist/12061714253974.jpg",
+        "singers": "Diplo;The Weeknd;Sia",
+        "length": 258000,
+        "mvId": "",
+        "flag": 65,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 3,
+        "pinyin": "Elastic Heart",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 1053547,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 4129389,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 10322708,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 32909662,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 3,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 3,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": {
+          "lyricId": 2073,
+          "lyricType": 2,
+          "lyricFile": "http://img.xiami.net/lyric/7/1772261207_1476244186011_5880.lrc"
+        },
+        "listenFiles": [
+          {
+            "listenFile": "http://om7.alicdn.com/982/53982/180237099/1772261207_1439372680_h.flac?auth_key=2764579bef8f96bcfab8fd143cea61c9-1489460400-0-null",
+            "quality": "s",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "flac",
+            "fileSize": 32909662
+          },
+          {
+            "listenFile": "http://om32.alicdn.com/256/23256/180237099/1772261207_11107632_l.m4a?auth_key=8f51bf7cec428a5934ddb039dc3133fd-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 1053547
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/256/23256/180237099/1772261207_11107632_h.mp3?auth_key=1cc5335aded99262ee72d075f59f5d86-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 10322708
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/256/23256/180237099/1772261207_11107632_l.mp3?auth_key=8fe660b750551349da3a9d136f1790f1-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 4129389
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img56/23256/1802370991381990908.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 15,
+        "artistAlbumCount": 2296,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "饥饿游戏2：星火燎原",
+        "singerVOs": [
+          {
+            "artistId": 31878,
+            "artistName": "Diplo",
+            "alias": "Thomas Wesley Pentz"
+          },
+          {
+            "artistId": 88247,
+            "artistName": "The Weeknd",
+            "alias": "Abel Tesfaye"
+          },
+          {
+            "artistId": 53982,
+            "artistName": "Sia",
+            "alias": "Sia Kate Isobelle Furler / 希雅"
+          }
+        ],
+        "artistAlias": "欧美原声带",
+        "gmtCreate": 1405333563000
+      },
+      {
+        "songId": 2076849,
+        "songName": "Unintended",
+        "subName": "",
+        "albumId": 168292,
+        "albumLogo": "http://pic.xiami.net/images/album/img75/23375/1682921380078492.jpg",
+        "albumName": "Showbiz",
+        "artistId": 23375,
+        "artistName": "Muse",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/88/14329109312588.jpg",
+        "singers": "Muse",
+        "length": 237000,
+        "mvId": "K667pF",
+        "flag": 65,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 7,
+        "pinyin": "Unintended",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 982861,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 3793340,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 9481556,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 24699443,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 3,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 3,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": {
+          "lyricId": 6450183,
+          "lyricType": 4,
+          "lyricFile": "http://img.xiami.net/lyric/49/2076849_1433836944_5354.xlrc"
+        },
+        "listenFiles": [
+          {
+            "listenFile": "http://om7.alicdn.com/375/23375/168292/2076849_1438276080_h.flac?auth_key=bcdc558c1f9eaf67b2b4de437f08eabc-1489460400-0-null",
+            "quality": "s",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "flac",
+            "fileSize": 24699443
+          },
+          {
+            "listenFile": "http://om32.alicdn.com/375/23375/168292/2076849_3554739_l.m4a?auth_key=82cf12991263e6043185dc477adac070-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 982861
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/375/23375/168292/2076849_3554739_h.mp3?auth_key=5914b4458a91d230770195cd42cdf060-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 9481556
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/375/23375/168292/2076849_3554739_l.mp3?auth_key=6d706d7e1a53cf02b27ee3bfa668ea64-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269656,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 3793340
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img75/23375/1682921380078492.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 13,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 23375,
+            "artistName": "Muse",
+            "alias": "缪斯乐队"
+          }
+        ],
+        "artistAlias": "缪斯乐队",
+        "gmtCreate": 938448000000
+      },
+      {
+        "songId": 2103608,
+        "songName": "Free Loop",
+        "subName": "",
+        "albumId": 170344,
+        "albumLogo": "http://pic.xiami.net/images/album/img44/23844/1703441376477561.jpg",
+        "albumName": "Daniel Powter",
+        "artistId": 23844,
+        "artistName": "Daniel Powter",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/76/13764769686276.jpg",
+        "singers": "Daniel Powter",
+        "length": 228000,
+        "mvId": "",
+        "flag": 65,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 2,
+        "pinyin": "Free Loop",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 944456,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 3648288,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 9140927,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 24493394,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 3,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 3,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": {
+          "lyricId": 8313183,
+          "lyricType": 4,
+          "lyricFile": "http://img.xiami.net/lyric/8/2103608_1437126354_9469.xlrc"
+        },
+        "listenFiles": [
+          {
+            "listenFile": "http://om7.alicdn.com/256/1710256/0/2103608_1441960628.flac?auth_key=51795ea5cd3ceecd3bf564bc132edbef-1489460400-0-null",
+            "quality": "s",
+            "expire": 1488913269646,
+            "playVolume": 89,
+            "format": "flac",
+            "fileSize": 24493394
+          },
+          {
+            "listenFile": "http://om32.alicdn.com/844/23844/170344/2103608_4214730_l.m4a?auth_key=14bfc402aac2cb489d06c848eae24cf1-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269646,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 944456
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/844/23844/170344/2103608_4214730_h.mp3?auth_key=9479efd490d9a6e2d02ee1625c6c521c-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269646,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 9140927
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/844/23844/170344/2103608_4214730_l.mp3?auth_key=8b1672e18b890a6b3e68f51d1c4f9106-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269646,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 3648288
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img44/23844/1703441376477561.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 25,
+        "artistAlbumCount": 16,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "DP",
+        "singerVOs": [
+          {
+            "artistId": 23844,
+            "artistName": "Daniel Powter",
+            "alias": "丹尼尔·波特 / Daniel Richard Powter"
+          }
+        ],
+        "artistAlias": "丹尼尔·波特 / Daniel Richard Powter",
+        "gmtCreate": 1341392871000
+      },
+      {
+        "songId": 1774047968,
+        "songName": "Too Much To Handle (Shook Remix)",
+        "subName": "",
+        "albumId": 1825892208,
+        "albumLogo": "http://pic.xiami.net/images/album/img43/292715243/18258922081425892208.jpg",
+        "albumName": "Too Much To Handle (Shook Remix)",
+        "artistId": 292715243,
+        "artistName": "Great Good Fine Ok",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/17/14267414623217.jpg",
+        "singers": "Great Good Fine Ok",
+        "length": 209000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "Too Much To Handle (Shook Remix)",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 857593,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 3352430,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 8378181,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/243/292715243/1825892208/1774047968_16387504_l.m4a?auth_key=b332065e8943b3d9c55325c5fe36814e-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269654,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 857593
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/243/292715243/1825892208/1774047968_16387504_h.mp3?auth_key=1a1913523caa71e1e79ea9192506f554-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269653,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 8378181
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/243/292715243/1825892208/1774047968_16387504_l.mp3?auth_key=f6e749e9fe0b433682144f2098712350-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269654,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 3352430
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img43/292715243/18258922081425892208.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 1,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 292715243,
+            "artistName": "Great Good Fine Ok",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1437148800000
+      },
+      {
+        "songId": 1772200755,
+        "songName": "Turn Back Time",
+        "subName": "",
+        "albumId": 2075536610,
+        "albumLogo": "http://pic.xiami.net/images/album/img9/536609/5366091375536609.jpg",
+        "albumName": "Torus",
+        "artistId": 66663,
+        "artistName": "Sub Focus",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/57/14074806802857.jpg",
+        "singers": "Sub Focus",
+        "length": 307000,
+        "mvId": "K664kb",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 10,
+        "pinyin": "Turn Back Time",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 1263343,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 4916407,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 7374633,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": {
+          "lyricId": 4103907,
+          "lyricType": 2,
+          "lyricFile": "http://img.xiami.net/lyric/55/1772200755_1408419854_1185.lrc"
+        },
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/663/66663/2075536610/1772200755_10852536_l.m4a?auth_key=cf3785330c55e7c41bdd033d3fe27fbf-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269646,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 1263343
+          },
+          {
+            "listenFile": "http://om192.alicdn.com/663/66663/2075536610/1772200755_10852536_l.mp3?auth_key=677f09bc13b638a55d908dfe9416bde4-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269646,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 7374633
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/663/66663/2075536610/1772200755_10852536_l.mp3?auth_key=677f09bc13b638a55d908dfe9416bde4-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269646,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 4916407
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img9/536609/5366091375536609.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 13,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 66663,
+            "artistName": "Sub Focus",
+            "alias": "Nick Douwma"
+          }
+        ],
+        "artistAlias": "Nick Douwma",
+        "gmtCreate": 1405197306000
+      },
+      {
+        "songId": 1773811187,
+        "songName": "Delight (CHANYEOL) (Live)",
+        "subName": "",
+        "albumId": 19213570,
+        "albumLogo": "http://pic.xiami.net/images/album/img41/102841/192135701419320858.jpg",
+        "albumName": "EXOLOGY CHAPTER 1: THE LOST PLANET",
+        "artistId": 102841,
+        "artistName": "EXO",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/66/13768936976066.jpg",
+        "singers": "EXO",
+        "length": 105000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 8,
+        "pinyin": "Delight (CHANYEOL) (Live)",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 439015,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 1692274,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 4227824,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 1,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/841/102841/19213570/1773811187_16095823_l.m4a?auth_key=a65be2ca81e24f418a58858f3abd3d86-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269645,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 439015
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/841/102841/19213570/1773811187_16095823_h.mp3?auth_key=361aa26f577755db1ce08bd0225134b6-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269645,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 4227824
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/841/102841/19213570/1773811187_16095823_l.mp3?auth_key=cfe17d1459aa95c5039645169477ac98-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269645,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 1692274
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img41/102841/192135701419320858.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 36,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 102841,
+            "artistName": "EXO",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1419232621000
+      },
+      {
+        "songId": 1774279145,
+        "songName": "Save Me (Tez Cadey Remix)",
+        "subName": "",
+        "albumId": 1330989872,
+        "albumLogo": "http://pic.xiami.net/images/album/img72/989872/9898721430989872.jpg",
+        "albumName": "Save Me (Tez Cadey Remix)",
+        "artistId": 1530989606,
+        "artistName": "Tez Cadey",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/55/14309896067055.jpg",
+        "singers": "Listenbee;Tez Cadey",
+        "length": 333000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "Save Me (Tez Cadey Remix)",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 1378863,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 5336898,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 13340418,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": {
+          "lyricId": 8751509,
+          "lyricType": 2,
+          "lyricFile": "http://img.xiami.net/lyric/45/1774279145_1473740538899_8488.lrc"
+        },
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/606/1530989606/1330989872/1774279145_16659132_l.m4a?auth_key=039ed40b4d8d90ef07414ed8aa364418-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 1378863
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/606/1530989606/1330989872/1774279145_16659132_h.mp3?auth_key=48beee0d71bb86c205b35ca6adceddfd-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 13340418
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/606/1530989606/1330989872/1774279145_16659132_l.mp3?auth_key=d25204edb4bf4a43487871adabf8d183-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 5336898
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img72/989872/9898721430989872.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 1,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 1418630249,
+            "artistName": "Listenbee",
+            "alias": ""
+          },
+          {
+            "artistId": 1530989606,
+            "artistName": "Tez Cadey",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1442160000000
+      },
+      {
+        "songId": 1774472238,
+        "songName": "Future Vibes",
+        "subName": "",
+        "albumId": 736137079,
+        "albumLogo": "http://pic.xiami.net/images/album/img79/137079/1370791436137079.jpg",
+        "albumName": "Future Vibes",
+        "artistId": 1820363660,
+        "artistName": "Alex Skrindo",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/0/14203636606500.png",
+        "singers": "K.Safo;Alex Skrindo",
+        "length": 232000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "F u t u r e V i b e s",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 947484,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 3721794,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 9302889,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/660/1820363660/736137079/1774472238_16866854_l.m4a?auth_key=34217fe18686eaf696d2ba786956aad5-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 947484
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/660/1820363660/736137079/1774472238_16866854_h.mp3?auth_key=002da56a645d6967f81f34a344479019-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 9302889
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/660/1820363660/736137079/1774472238_16866854_l.mp3?auth_key=9bc38a40735838c9ef84e5e6d71fe40e-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269655,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 3721794
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img79/137079/1370791436137079.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 1,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "",
+        "singerVOs": [
+          {
+            "artistId": 1636404899,
+            "artistName": "K.Safo",
+            "alias": ""
+          },
+          {
+            "artistId": 1820363660,
+            "artistName": "Alex Skrindo",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1436137109000
+      },
+      {
+        "songId": 1771679955,
+        "songName": "Star Trek: Deep Space Nine / Main Title (Seasons 1–3) / The Storyteller #414",
+        "subName": "",
+        "albumId": 1561178450,
+        "albumLogo": "http://pic.xiami.net/images/album/img70/76070/15611784501361178450.jpg",
+        "albumName": "Star Trek: Deep Space nine Collection",
+        "artistId": 76070,
+        "artistName": "Dennis McCarthy",
+        "artistLogo": "http://pic.xiami.net/images/artistlogo/86/12773515384986.jpg",
+        "singers": "Dennis McCarthy",
+        "length": 117000,
+        "mvId": "",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "Star Trek: Deep Space Nine / Main Title (Seasons 1– 3) / The Storyteller #414",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 481487,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 1878331,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 4693912,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": null,
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/70/76070/1561178450/1771679955_10069402_l.m4a?auth_key=e3c811cf6baeb8b1ede56f63ed03c31f-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269645,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 481487
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/70/76070/1561178450/1771679955_10069402_h.mp3?auth_key=6ccfa55228dde0f7476e6dfe88a7625a-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269645,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 4693912
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/70/76070/1561178450/1771679955_10069402_l.mp3?auth_key=af4d40eba8a9030184507a46c9cfd15a-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269645,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 1878331
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img70/76070/15611784501361178450.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 99,
+        "artistAlbumCount": 0,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "星际旅行：深空九号 / 星舰迷航之太空九号 / 星际迷航九度空间 / 星际迷航：深空九号",
+        "singerVOs": [
+          {
+            "artistId": 76070,
+            "artistName": "Dennis McCarthy",
+            "alias": ""
+          }
+        ],
+        "artistAlias": "",
+        "gmtCreate": 1437148800000
+      },
+      {
+        "songId": 1772152925,
+        "songName": "Atlas",
+        "subName": "From \"The Hunger Games: Catching Fire\"Soundtrack",
+        "albumId": 180237099,
+        "albumLogo": "http://pic.xiami.net/images/album/img56/23256/1802370991381990908.jpg",
+        "albumName": "The Hunger Games: Catching Fire (Original Motion Picture Soundtrack)",
+        "artistId": 23256,
+        "artistName": "Soundtrack",
+        "artistLogo": "http://pic.xiami.net/images/artist/12061714253974.jpg",
+        "singers": "Coldplay",
+        "length": 236000,
+        "mvId": "K66oxM",
+        "flag": 1,
+        "songStatus": 0,
+        "cdSerial": 1,
+        "track": 1,
+        "pinyin": "Atlas",
+        "thirdpartyUrl": "",
+        "needPayFlag": 0,
+        "purviewRoleVOs": [
+          {
+            "quality": "e",
+            "filesize": 970768,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "f",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "l",
+            "filesize": 3779968,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "h",
+            "filesize": 9447077,
+            "isExist": true,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 0,
+                "needVip": false,
+                "needPay": false
+              }
+            ]
+          },
+          {
+            "quality": "s",
+            "filesize": 0,
+            "isExist": false,
+            "operationVOs": [
+              {
+                "purpose": 1,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              },
+              {
+                "purpose": 2,
+                "upgradeRole": 1,
+                "needVip": true,
+                "needPay": false
+              }
+            ]
+          }
+        ],
+        "bakSongId": 0,
+        "panFlag": 0,
+        "musicType": 0,
+        "bakSong": null,
+        "lyricInfo": {
+          "lyricId": 5938356,
+          "lyricType": 2,
+          "lyricFile": "http://img.xiami.net/lyric/25/1772152925_1416390243344_6300.lrc"
+        },
+        "listenFiles": [
+          {
+            "listenFile": "http://om32.alicdn.com/282/23282/1578110161/1772152925_10723920_l.m4a?auth_key=7501e20d3f4c5439792f10436309d328-1489460400-0-null",
+            "quality": "e",
+            "expire": 1488913269657,
+            "playVolume": 89,
+            "format": "m4a",
+            "fileSize": 970768
+          },
+          {
+            "listenFile": "http://om6.alicdn.com/282/23282/1578110161/1772152925_10723920_h.mp3?auth_key=37f1397663deb7d7e1da217b6908318f-1489460400-0-null",
+            "quality": "h",
+            "expire": 1488913269657,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 9447077
+          },
+          {
+            "listenFile": "http://om5.alicdn.com/282/23282/1578110161/1772152925_10723920_l.mp3?auth_key=df7c60654524dff9c833e1b7b54eb33b-1489460400-0-null",
+            "quality": "l",
+            "expire": 1488913269657,
+            "playVolume": 89,
+            "format": "mp3",
+            "fileSize": 3779968
+          }
+        ],
+        "albumLogoS": "http://pic.xiami.net/images/album/img56/23256/1802370991381990908.jpg@1e_1c_0i_1o_100Q_225w_225h.webp",
+        "albumSongCount": 15,
+        "artistAlbumCount": 2296,
+        "songwriters": "",
+        "composer": "",
+        "arrangement": "",
+        "boughtCount": null,
+        "pace": 0,
+        "albumSubName": "饥饿游戏2：星火燎原",
+        "singerVOs": [
+          {
+            "artistId": 23282,
+            "artistName": "Coldplay",
+            "alias": "酷玩"
+          }
+        ],
+        "artistAlias": "欧美原声带",
+        "gmtCreate": 1404974521000
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>qiniu</title>
+</head>
+
+<body>
+    <div id="container">
+        <a class="btn btn-default btn-lg " id="pickfiles" style="width:160px" href="#">
+            <i class="glyphicon glyphicon-plus"></i>
+            <span>选择文件</span>
+        </a>
+        <a class="btn btn-default btn-lg " id="up_load" style="width:160px" href="#">
+            <span>确认上传</span>
+        </a>
+        <a class="btn btn-default btn-lg " id="stop_load" style="width:160px" href="#">
+            <span>暂停上传</span>
+        </a>
+    </div>
+    <script type="text/javascript" src="./lib/jquery-1.12.4.js"></script>
+    <script type="text/javascript" src="./lib/plupload-2.1.9/js/plupload.full.min.js"></script>
+    <script type="text/javascript" src="./lib/js-sdk-1.0.16-beta/dist/qiniu.min.js"></script>
+    <script type="text/javascript" src="./lib/ui.js"></script>
+    <script>
+
+        var uploader = Qiniu.uploader({
+            runtimes: 'html5,flash,html4',
+            browse_button: 'pickfiles',
+            container: 'container',
+            drop_element: 'container',
+            max_file_size: '100mb',
+            flash_swf_url: 'js/plupload/Moxie.swf',
+            dragdrop: true,
+            chunk_size: '4mb',
+            uptoken: 'pfbSmizd7FGjdPqJ4l9jbvXDNgegvB3gZ2FqyPpI:M3lePNuo80mfWR_GRfGbrzp3-2Q=:eyJzY29wZSI6ImJ1c2ltYWdlcyIsImRlYWRsaW5lIjoxNDg4MjkwOTgzfQ==',
+
+            domain: "busimages",
+            auto_start: false,
+            init: {
+                'FilesAdded': function(up, files) {
+                    $('table').show();
+                    $('#success').hide();
+                    plupload.each(files, function(file) {
+                        var progress = new FileProgress(file, 'fsUploadProgress');
+                        progress.setStatus("等待...");
+                    });
+                },
+                'BeforeUpload': function(up, file) {
+                    var progress = new FileProgress(file, 'fsUploadProgress');
+                    var chunk_size = plupload.parseSize(this.getOption('chunk_size'));
+                    if (up.runtime === 'html5' && chunk_size) {
+                        progress.setChunkProgess(chunk_size);
+                    }
+                },
+                'UploadProgress': function(up, file) {
+                    var progress = new FileProgress(file, 'fsUploadProgress');
+                    var chunk_size = plupload.parseSize(this.getOption('chunk_size'));
+                    progress.setProgress(file.percent + "%", file.speed, chunk_size);
+                },
+                'UploadComplete': function() {
+                    $('#success').show();
+                },
+                'FileUploaded': function(up, file, info) {
+                    var progress = new FileProgress(file, 'fsUploadProgress');
+                    progress.setComplete(up, info);
+                },
+                'Error': function(up, err, errTip) {
+                    $('table').show();
+                    var progress = new FileProgress(err.file, 'fsUploadProgress');
+                    progress.setError();
+                    progress.setStatus(errTip);
+                }
+            }
+        });
+        uploader.bind('FileUploaded', function() {
+            console.log('hello man,a file is uploaded');
+        });
+        $('#up_load').on('click', function() {
+            uploader.start();
+        });
+        $('#stop_load').on('click', function() {
+            uploader.stop();
+        });
+    </script>
+
+</body>
+
+</html>

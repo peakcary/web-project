@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+        .mt10 {
+            margin-top: 10px;
+        }
+
+        .mt20 {
+            margin-top: 20px;
+        }
+
+        .ml100 {
+            margin-left: 100px;
+        }
+
+        .intro-title {
+            height: 40px;
+            line-height: 40px;
+            padding-left: 10px;
+            border-left: 5px solid #CC5A18;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .import-body {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .import-body-title {
+            font-size: 14px;
+            font-weight: 400;
+            padding: 10px;
+        }
+
+        .import-body-input {
+            padding: 5px;
+        }
+
+        .import-body-input input {
+            border: 0;
+            margin: 0;
+            width: 100%;
+            height: 30px;
+        }
+
+        .import-data {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .import-data-title {
+            font-size: 14px;
+            font-weight: 400;
+            padding: 10px;
+            height: 40px;
+            line-height: 40px;
+        }
+
+        .import-data-title input {
+            margin: 0;
+            padding: 0;
+        }
+        .import-data-control{
+
+        }
+
+        .import-data-control a {
+            text-decoration: none;
+            cursor: pointer;
+            width: 122px;
+            text-align: center;
+            border-radius: 3px;
+            background-color: #0ea64f;
+            font-size: 14px;
+            color: #fff;
+            background: #31c27c;
+            border: 1px solid #31c27c;
+            height: 38px;
+            line-height: 39px;
+            overflow: hidden;
+            display: block;
+            margin: 10px auto;
+        }
+
+        .import-data-input {
+            border-top: 1px solid #ddd;
+            border-bottom: 1px solid #ddd;
+            padding: 10px;
+            max-height: 250px;
+            overflow-x: auto;
+        }
+
+        .import-data-input table {
+            border-collapse: collapse;
+        }
+
+        .import-data-input table,
+        th,
+        td {
+            border-bottom: 1px solid #ddd;
+        }
+
+        .import-body-control {}
+
+        .import-body-control a {
+            text-decoration: none;
+            cursor: pointer;
+            width: 122px;
+            text-align: center;
+            border-radius: 3px;
+            background-color: #0ea64f;
+            font-size: 14px;
+            color: #fff;
+            background: #31c27c;
+            border: 1px solid #31c27c;
+            height: 38px;
+            line-height: 39px;
+            overflow: hidden;
+            display: block;
+            margin: 10px auto;
+        }
+
+        .import-intro-txt {
+            font-size: 14px;
+            color: #000;
+            font-family: "Microsoft YaHei";
+            padding-bottom: 15px;
+            margin-left: 10px;
+        }
+
+        .import-intro-image {
+            width: 800px;
+            height: 370px;
+            background-size: cover;
+        }
+
+        ul,
+        ol {
+            margin-top: 0;
+            margin-bottom: 10px;
+        }
+
+        ul,
+        ol {
+            list-style: none;
+            display: block;
+        }
+
+        .nav {
+            padding-left: 0;
+            margin-bottom: 0;
+            list-style: none;
+        }
+
+        .nav>li {
+            position: relative;
+            display: block;
+        }
+
+        .nav>li>a {
+            position: relative;
+            display: block;
+            padding: 10px 15px;
+        }
+
+        .nav>li>a:hover,
+        .nav>li>a:focus {
+            text-decoration: none;
+            background-color: #eee;
+        }
+
+        .nav>li.disabled>a {
+            color: #777;
+        }
+
+        .nav>li.disabled>a:hover,
+        .nav>li.disabled>a:focus {
+            color: #777;
+            text-decoration: none;
+            cursor: not-allowed;
+            background-color: transparent;
+        }
+
+        .nav .open>a,
+        .nav .open>a:hover,
+        .nav .open>a:focus {
+            background-color: #eee;
+            border-color: #337ab7;
+        }
+
+        .nav .nav-divider {
+            height: 1px;
+            margin: 9px 0;
+            overflow: hidden;
+            background-color: #e5e5e5;
+        }
+
+        .nav>li>a>img {
+            max-width: none;
+        }
+
+        .nav-tabs {
+            height: 43px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .nav-tabs>li {
+            float: left;
+            margin-bottom: -1px;
+        }
+
+        .nav-tabs>li>a {
+            margin-right: 2px;
+            line-height: 1.42857143;
+            border: 1px solid transparent;
+            border-radius: 4px 4px 0 0;
+        }
+
+        .nav-tabs>li>a:hover {
+            border-color: #eee #eee #ddd;
+        }
+
+        .nav-tabs>li.active>a,
+        .nav-tabs>li.active>a:hover,
+        .nav-tabs>li.active>a:focus {
+            color: #555;
+            cursor: default;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-bottom-color: transparent;
+        }
+
+        .tab-content>.tab-pane {
+            display: none;
+        }
+
+        .tab-content>.active {
+            display: block;
+        }
+
+        .nav-tabs .dropdown-menu {
+            margin-top: -1px;
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+        }
+
+        .navbar {
+            position: relative;
+            min-height: 50px;
+            margin-bottom: 20px;
+            border: 1px solid transparent;
+        }
+
+        input {
+            border: 0;
+            margin: 0;
+            width: 100%;
+            height: 30px;
+            padding: 0;
+            outline: 0;
+            text-decoration: none;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        input.form-control {
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            height: 35px;
+            line-height: 35px;
+            padding: 5px;
+            font-size: 14px;
+            width: 98%;
+            margin: 0;
+        }
+
+        .input-control{
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            height: 30px;
+            line-height: 30px;
+            font-size: 14px;
+            margin: 0;
+            width: 200px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="intro-title">
+        导入歌单
+    </div>
+    <div class="import-body mt10">
+        <div class="import-body-title">
+            请在下面的文本框中粘贴歌单地址：<br /> 1、导入歌单后 ，需要1-2分钟与音乐曲库进行匹配，请稍后查看；<br /> 2、因曲库差异，部分歌曲可能无法正常识别。
+            <br />
+        </div>
+        <div class="import-body-input">
+            <ul id="tabNav" class="nav nav-tabs">
+                <li class="active" id="tabNavWangyi"><a href="#">网易歌单Url</a></li>
+                <li id="tabNavQQ"><a href="#">QQ歌单Url</a></li>
+            </ul>
+            <div id="tabContent" class="tab-content mt10">
+                <div class="tab-pane active " id="tabContentWangyi"><input type="text" class="form-control" placeholder="网易歌单Url"></div>
+                <div class="tab-pane  " id="tabContentQQ"><input type="text" class="form-control" placeholder="QQ歌单Url"></div>
+            </div>
+        </div>
+        <div class="import-body-control">
+            <a id="btnGetData">匹配歌曲</a>
+        </div>
+    </div>
+    <div class="import-data mt10">
+        <div class="import-data-title">
+            <div style="float:left; width:30px;margin-top:5px;">
+                <input type="checkbox" id="ckDataAll" checked />
+            </div>
+            <div style="float:left;  ">
+                全选
+            </div>
+            <div style="float:left;margin-left:10px;">
+                歌单名称<input type="text" class="input-control" />
+            </div>
+            <div style="float:right;  ">
+                匹配到12首歌曲,请确认导入
+            </div>
+        </div>
+
+        <div style="clear:both;">
+
+        </div>
+        <div class="import-data-input">
+            <table class="table table-striped">
+                <tbody id="listData">
+                </tbody>
+            </table>
+        </div>
+        <div class="import-data-control">
+            aaa<a>导入歌单</a>
+        </div>
+    </div>
+    <div class="import-intro mt10">
+        <div class="intro-title">
+            如何导入
+        </div>
+        <div class="import-intro-txt  ">
+            1.打开网易或者QQ音乐网 在浏览器地址栏复制歌单的浏览地址，然后粘贴到上图的文本框中，点击“匹配歌曲”。
+        </div>
+        <div class="import-intro-wangyi ml100">
+            <div class="  mt20">
+                网易音乐网(http://music.163.com/)>歌单>
+            </div>
+            <div class="  import-intro-image mt10 " style="background-image:url(//gw.alicdn.com/tps/TB1IobCPVXXXXciXVXXXXXXXXXX-1660-810.png)">
+            </div>
+        </div>
+        <div class="import-intro-wangyi ml100">
+            <div class="   mt20">
+                QQ音乐网(http://y.qq.com)>分类歌单>
+            </div>
+            <div class="  import-intro-image mt10" style="background-image:url(//gw.alicdn.com/tps/TB1EKHuPVXXXXa6aXXXXXXXXXXX-1728-950.png)">
+
+            </div>
+        </div>
+        <div class="import-intro-txt  mt10">
+            2.选择识别出的歌曲，点击导入歌单。 1-2分钟后可在QQ音乐客户端>我的音乐中查看已导入的歌曲。
+            <div class=" ml100">
+                <div class="  import-intro-image mt10" style="background-image:url(//gw.alicdn.com/tps/TB1kUHjPVXXXXX9apXXXXXXXXXX-1676-812.png)">
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="//g-assets.daily.taobao.net/xiami-h5/web-xiami-main-static/0.0.5/lib/jquery/jquery-1.12.4.min.js"></script>
+    <script src="//g-assets.daily.taobao.net/xiami-h5/web-xiami-main-static/0.0.5/lib/jquery/jquery.tmpl.min.js"></script>
+    <script id="listDataTmpl" type="text/x-jquery-tmpl">
+        {{each(i,song) songs}}
+        <tr>
+            <td style="width:30px;"><input type="checkbox" checked ref="${song.songId}"></td>
+            <td>${i+1}</td>
+            <td>${song.songName}</td>
+            <td>${song.albumName}</td>
+            <td>${song.artistName}</td>
+        </tr>
+        {{/each}}
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            // $("#loading").fadeOut(500);
+            initTabEvent();
+            initBtnEvent();
+        });
+
+        function initTabEvent() {
+            $("#tabNavWangyi").click(function() {
+                $("#tabNavWangyi").addClass("active");
+                $("#tabContentWangyi").addClass("active");
+                $("#tabNavQQ").removeClass("active");
+                $("#tabContentQQ").removeClass("active");
+            });
+            $("#tabNavQQ").click(function() {
+                $("#tabNavQQ").addClass("active");
+                $("#tabContentQQ").addClass("active");
+                $("#tabNavWangyi").removeClass("active");
+                $("#tabContentWangyi").removeClass("active");
+            });
+        }
+
+        function initBtnEvent() {
+            $("#btnGetData").click(function() {
+
+
+                getData();
+            });
+            $("#btnPostData").click(function() {
+                postData();
+            });
+
+        }
+
+        function getData() {
+            $("#loading").fadeIn();
+            $.ajax({
+                url: 'data.json',
+                type: 'get',
+                dataType: 'json',
+                success: function(res) {
+                    $("#loading").fadeOut();
+                    $("#listData").empty();
+                    $("#listDataTmpl").tmpl(res.data).appendTo("#listData");
+                }
+            });
+        }
+
+        function postData() {
+            var ids = [];
+            $("#listData").find("input[type='checkbox']:checked").each(function() {
+                ids.push($(this).attr("ref"));
+            });
+            console.log(ids.join(","));
+        }
+    </script>
+</body>
+
+</html>

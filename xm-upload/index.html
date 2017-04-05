@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+
+    <link rel="stylesheet" href="//g-assets.daily.taobao.net/xiami-h5/web-xiami-main-static/0.0.5/lib/bootstrap/css/bootstrap.min.css">
+    <style>
+        .p10 {
+            padding: 10px;
+        }
+
+        .mt10 {
+            margin-top: 10px;
+        }
+        #toast{
+            height: 100%;
+            width: 100%;
+            position: fixed;
+            z-index: 1;
+            margin-top: 0px;
+            top: 0px;
+        }
+        .toast-info {
+            margin: 100px auto;
+            max-width: 300px;
+            text-align: center;
+            font-size: 10px;
+            line-height: 50px;
+            height: 50px;
+            background: #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        #loading{
+          height: 100%;
+          width: 100%;
+          position: fixed;
+          z-index: 1;
+          margin-top: 0px;
+          top: 0px;
+        }
+        .spinner {
+            margin: 100px auto;
+            width: 50px;
+            height: 60px;
+            text-align: center;
+            font-size: 10px;
+        }
+
+        .spinner>div {
+            background-color: #67CF22;
+            height: 100%;
+            width: 6px;
+            display: inline-block;
+            -webkit-animation: stretchdelay 1.2s infinite ease-in-out;
+            animation: stretchdelay 1.2s infinite ease-in-out;
+        }
+
+        .spinner .rect2 {
+            -webkit-animation-delay: -1.1s;
+            animation-delay: -1.1s;
+        }
+
+        .spinner .rect3 {
+            -webkit-animation-delay: -1.0s;
+            animation-delay: -1.0s;
+        }
+
+        .spinner .rect4 {
+            -webkit-animation-delay: -0.9s;
+            animation-delay: -0.9s;
+        }
+
+        .spinner .rect5 {
+            -webkit-animation-delay: -0.8s;
+            animation-delay: -0.8s;
+        }
+
+        @-webkit-keyframes stretchdelay {
+            0%,
+            40%,
+            100% {
+                -webkit-transform: scaleY(0.4)
+            }
+            20% {
+                -webkit-transform: scaleY(1.0)
+            }
+        }
+
+        @keyframes stretchdelay {
+            0%,
+            40%,
+            100% {
+                transform: scaleY(0.4);
+                -webkit-transform: scaleY(0.4);
+            }
+            20% {
+                transform: scaleY(1.0);
+                -webkit-transform: scaleY(1.0);
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="p10">
+        <div class="page-header">
+            <h1>快速创建歌单<small></small></h1>
+        </div>
+
+        <ul id="tabNav" class="nav nav-tabs">
+            <li class="active" id="tabNavWangyi"><a href="#">导入网易</a></li>
+            <li id="tabNavQQ"><a href="#">导入QQ</a></li>
+        </ul>
+        <div id="tabContent" class="tab-content p10">
+            <div class="tab-pane active " id="tabContentWangyi"><input type="text" class="form-control" placeholder="网易歌单Url"></div>
+            <div class="tab-pane  " id="tabContentQQ"><input type="text" class="form-control" placeholder="QQ歌单Url"></div>
+        </div>
+        <div class="page-control ">
+            <button id="btnGetData" class="btn btn-primary center-block" type="submit">生成列表</button>
+        </div>
+        <div class="page-list mt10">
+            <table class="table table-striped">
+                <tbody id="listData">
+                </tbody>
+            </table>
+        </div>
+        <div class="page-control ">
+            <button id="btnPostData" class="btn btn-primary center-block" type="submit">生成歌单</button>
+        </div>
+    </div>
+    <div id="loading">
+        <div  class="spinner">
+            <div class="rect1"></div>
+            <div class="rect2"></div>
+            <div class="rect3"></div>
+            <div class="rect4"></div>
+            <div class="rect5"></div>
+        </div>
+    </div>
+    <div id="toast">
+        <div id="toast-info" class="toast-info">
+        </div>
+    </div>
+
+
+    <script src="//g-assets.daily.taobao.net/xiami-h5/web-xiami-main-static/0.0.5/lib/jquery/jquery-1.12.4.min.js"></script>
+    <script src="//g-assets.daily.taobao.net/xiami-h5/web-xiami-main-static/0.0.5/lib/jquery/jquery.tmpl.min.js"></script>
+    <script id="listDataTmpl" type="text/x-jquery-tmpl">
+        {{each(i,song) songs}}
+        <tr>
+            <td>${i+1}</td>
+            <td><input type="checkbox" checked ref="${song.songId}"></td>
+            <td>${song.songName}</td>
+            <td>${song.albumName}</td>
+            <td>${song.artistName}</td>
+        </tr>
+        {{/each}}
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+
+            $("#loading").hide();
+            $("#toast").fadeIn();
+            $("#toast-info").html("adsfjkdjsf");
+            initTabEvent();
+            initBtnEvent();
+        });
+
+        function initTabEvent() {
+            $("#tabNavWangyi").click(function() {
+                $("#tabNavWangyi").addClass("active");
+                $("#tabContentWangyi").addClass("active");
+                $("#tabNavQQ").removeClass("active");
+                $("#tabContentQQ").removeClass("active");
+            });
+            $("#tabNavQQ").click(function() {
+                $("#tabNavQQ").addClass("active");
+                $("#tabContentQQ").addClass("active");
+                $("#tabNavWangyi").removeClass("active");
+                $("#tabContentWangyi").removeClass("active");
+            });
+        }
+
+        function initBtnEvent() {
+            $("#btnGetData").click(function() {
+
+
+                getData();
+            });
+            $("#btnPostData").click(function() {
+                postData();
+            });
+
+        }
+
+        function getData() {
+            $("#loading").fadeIn();
+            $.ajax({
+                url: 'data.json',
+                type: 'get',
+                dataType: 'json',
+                success: function(res) {
+                    $("#loading").fadeOut();
+                    $("#listData").empty();
+                    $("#listDataTmpl").tmpl(res.data).appendTo("#listData");
+                }
+            });
+        }
+
+        function postData() {
+            var ids = [];
+            $("#listData").find("input[type='checkbox']:checked").each(function() {
+                ids.push($(this).attr("ref"));
+            });
+            console.log(ids.join(","));
+        }
+    </script>
+</body>
+
+</html>

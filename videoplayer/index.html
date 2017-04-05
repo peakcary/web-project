@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+        .liveplayer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #000;
+            display: none;
+        }
+
+        video {
+            display: none;
+            height: 100%;
+            width: 100%;
+        }
+
+        .btn {
+            border-radius: 10px;
+            background-color: #ce3249;
+            width: 100px;
+            text-align: center;
+            height: 50px;
+            line-height: 50px;
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="liveplayer">
+        <!-- <video src="http://godsong.bs2dl.yy.com/dmZlNTY3Y2VjZWRlNDM3NGM4MzNkZGE3OGJmYTJhYTVkMTIwMjY0NDI1N21j" controls>
+          </video> -->
+          <video src="./macwindows.m3u8" controls>
+            </video>
+    </div>
+    <div class="btn">点击播放</div>
+    <script type="text/javascript">
+        var videoPlayer = (function() {
+            var $livePlayer = document.getElementsByClassName('liveplayer')[0];
+            var $video = document.getElementsByTagName('video')[0];
+            var $playBtn = document.getElementsByClassName('btn')[0];
+
+            $playBtn.addEventListener('click', function() {
+                $livePlayer.style.display = 'block';
+                $video.style.display = 'block';
+                $video.play();
+            });;
+
+            function playVideo(src) {
+                $video.src = src;
+                $video.play();
+            }
+
+            $video.addEventListener('ended', function() {
+                $video.style.display = 'none';
+                $livePlayer.style.display = 'none';
+            })
+        })()
+    </script>
+</body>
+
+</html>
